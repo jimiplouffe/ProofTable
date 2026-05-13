@@ -1,0 +1,24 @@
+{
+  "name": "prooftable",
+  "version": "0.1.0",
+  "description": "A manifest-first evidence model and validator for high-stakes table claims.",
+  "type": "module",
+  "bin": {
+    "prooftable": "./src/validate.mjs"
+  },
+  "scripts": {
+    "validate": "node src/validate.mjs examples/benchmark/prooftable.json",
+    "test": "node tests/smoke-test.mjs"
+  },
+  "keywords": [
+    "tables",
+    "evidence",
+    "validation",
+    "benchmarks",
+    "provenance",
+    "html",
+    "json-schema"
+  ],
+  "author": "Jimi Plouffe <james@seekmomentum.com> (Momentum, LLC)",
+  "license": "MIT"
+}

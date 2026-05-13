@@ -1,0 +1,16 @@
+.github/workflows/prooftable.yml
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+FILE-LIST.txt
+LICENSE
+README.md
+SMOKE-TEST-RESULT.json
+docs/prooftable-model-presentation.html
+examples/benchmark/prooftable.html
+examples/benchmark/prooftable.json
+index.html
+package.json
+spec/prooftable.schema.json
+src/validate.mjs
+tests/smoke-test.mjs

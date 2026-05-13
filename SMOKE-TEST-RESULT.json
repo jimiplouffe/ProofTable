@@ -1,0 +1,6 @@
+{
+  "status_code": 0,
+  "stdout": "\n> prooftable@0.1.0 test\n> node tests/smoke-test.mjs\n\n\n=== JSON example ===\nProofTable audit: prooftable.json\nClaims checked: 16\nEvidence cautions: 4\nResult: PASS\n\n=== HTML example ===\nProofTable audit: prooftable.html\nClaims checked: 16\nEvidence cautions: 4\nResult: PASS\n\nSmoke test passed.\n",
+  "stderr": "",
+  "passed": true
+}
